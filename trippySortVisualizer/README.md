@@ -1,7 +1,7 @@
 Trippy MergeSort Visualizer
 ==
 
-Heavily modified version of https://bl.ocks.org/mbostock/e65d9895da07c57e94bd
+Heavily modified version of https://bl.ocks.org/mbostock/e65d9895da07c57e94bd  
 LICENSED WITH GPLv3 See: LICENSE.gplv3
 
 I recommend probably working off of his original source as this version is the
